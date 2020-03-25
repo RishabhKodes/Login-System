@@ -1,9 +1,7 @@
-### Login-System
+# Login-System
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This is a Login-SignUp system working code template along with the mongoDB access, which saves the data in your mongoDB collection. Anyone wanting a user signup-login system can integrate this in their webapps. 
 
@@ -18,9 +16,6 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Installation
 
 1. Clone the repo
@@ -31,11 +26,11 @@ git clone https://github.com/RishabhKodes/Login-System.git
 ```sh
 npm install
 ```
-3. Enter your API in `config.js`
+3. Run using command:
 ```JS
 node app.js
 ```
-4. Run
+4. Visit Link
 ```sh
 https://localhost:3000
 ```
@@ -53,9 +48,11 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- CONTACT -->
-## Contact
+## Contact Me @
 
-Rishabh Bhandari - [LinkedIn](https://www.linkedin.com/in/rishabh-bhandari-ba5778168/) - [Email](rishabhbhandari6@gmail.com)
+Rishabh Bhandari - 
+[LinkedIn](https://www.linkedin.com/in/rishabh-bhandari-ba5778168/)
+[Email](rishabhbhandari6@gmail.com)
 
 Project Link: [GitHub](https://github.com/RishabhKodes/Login-System)
 
