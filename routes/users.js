@@ -1,9 +1,12 @@
 var express = require('express');
 var router = express.Router();
+var expressValidator = require('express-validator');
+router.use(expressValidator());
 var multer = require('multer');
 var upload = multer({dest: './uploads'});
 var passport = require('passport');
 var LocalStrategy = require('passport-local').Strategy;
+
 
 var User = require('../models/user');
 
