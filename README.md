@@ -58,6 +58,8 @@ Contributions are what make the open source community such an amazing place to b
 
 **Project Link -** [GitHub](https://github.com/RishabhKodes/Login-System)
 
-
-
+<p align="center">
+Made with :heart: <br>
+by e33or_assasin
+</p>
 
