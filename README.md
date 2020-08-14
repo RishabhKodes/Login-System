@@ -6,7 +6,8 @@
 This is a Login-SignUp system working code template along with the mongoDB access, which saves the data in your mongoDB collection. Anyone wanting a user signup-login system can integrate this in their webapps. 
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This is a list of the major frameworks that were used in this project using:-
+
 * [Nodejs](https://nodejs.org/en/)
 * [Jade](http://jade-lang.com/)
 * [MongoDB](https://www.mongodb.com/)
